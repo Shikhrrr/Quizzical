@@ -1,8 +1,5 @@
-# React + Vite
+# Quzzical
+## (Work in Progress)
+This is the final project of Scrimba's React course and includes a Quiz hosting website wherein the user will be able to select the number, type and genre of questions coming in from an API. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I'm currently working on it but it will take some time because I'm having my college exams this whole month. 
